@@ -57,7 +57,7 @@ Python V 3.6, 3.7
 #### Contacts
 |Contact Name |E-Mail Id |
 |:----------------------|:----------------------------|
-|Subhankar Samal |sub.samal97@infosys.com |
+|Subhankar Samal |sub.samal97@gmail.com |
 
 #### Import Procedure
 |Steps ||:---------------------------------------------------|
